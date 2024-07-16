@@ -4,7 +4,6 @@ class Person:
         self.age = age
         self.gender = gender
 
-# Example of creating a Person object
 person1 = Person("T Dash", 20, "Male")
 
 # Accessing attributes
